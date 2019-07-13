@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter+-</string>
+    <string name="save">保存</string>
+    <string name="comment">コメント</string>
+    <string name="but_clean">クリア</string>
+    <string name="cmdset">カウンター設定</string>
+    <string name="Numvalue">カウンター値</string>
+    <string name="step">ステップ値</string>
+    <string name="Negative_count_mode">マイナスカウントモード</string>
+    <string name="Exit">終了</string>
+</resources>

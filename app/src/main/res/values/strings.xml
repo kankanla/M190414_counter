@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Counter+-</string>
+    <string name="but_clean">Clean</string>
+    <string name="save">Save</string>
+    <string name="comment">Comment</string>
+    <string name="cmdset">Counter setting</string>
+    <string name="Numvalue">Numerical value</string>
+    <string name="step">Step value</string>
+    <string name="Negative_count_mode">Negative count mode</string>
+    <string name="Exit">Exit</string>
+    <string name="kankanla" translatable="false">kankanla</string>
+    <string name="PlayURL" translatable="false">https://play.google.com/store/apps/developer?id=kankanla</string>
+    <string name="AdMob_ID" translatable="false">ca-app-pub-0547405774182700~3423923939</string>
+    <string name="setAdUnitId" translatable="false">ca-app-pub-0547405774182700/8871691733</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter+-</string>
+    <string name="save">保存</string>
+    <string name="comment">备注</string>
+    <string name="but_clean">清除</string>
+    <string name="cmdset">计数器设置</string>
+    <string name="Numvalue">计数器值</string>
+    <string name="step">步值</string>
+    <string name="Negative_count_mode">负计数</string>
+    <string name="Exit">退出</string>
+</resources>
