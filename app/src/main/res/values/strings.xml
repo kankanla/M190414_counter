@@ -10,8 +10,8 @@
     <string name="Exit">Exit</string>
     <string name="kankanla" translatable="false">kankanla</string>
     <string name="PlayURL" translatable="false">https://play.google.com/store/apps/developer?id=kankanla</string>
-    <string name="AdMob_ID" translatable="false">ca-app-pub-0547405774182700~3423923939</string>
-    <string name="setAdUnitId" translatable="false">ca-app-pub-0547405774182700/8871691733</string>
+    <string name="AdMob_ID" translatable="false">ca-app-pub-0547405774182700~8772334403</string>
+    <string name="setAdUnitId" translatable="false">ca-app-pub-0547405774182700/6592893622</string>
 
 
 </resources>
